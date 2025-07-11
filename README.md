@@ -126,11 +126,4 @@ src/
 
 ---
 
-### ✅ Next Steps
-
-* Add **search and filtering** in user listing
-* Add **pagination** using Firestore’s `startAfter()`
-* Add **chat using Firebase Realtime Database**
-* Deploy to Firebase Hosting or Vercel
-
  
